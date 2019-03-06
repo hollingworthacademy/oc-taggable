@@ -1,0 +1,2 @@
+# Taggable Plugin for OctoberCMS
+
